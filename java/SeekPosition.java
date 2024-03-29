@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 import static java.nio.file.StandardOpenOption.CREATE;
 
-public class SeekPosition2 {
+public class SeekPosition {
 	
 	public static void main(String[] args) {
 		//This creates a scanner for a user to input
